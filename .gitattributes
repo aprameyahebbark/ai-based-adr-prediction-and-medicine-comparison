@@ -1,0 +1,2 @@
+api/model/*.joblib filter=lfs diff=lfs merge=lfs -text
+api/model/*.csv filter=lfs diff=lfs merge=lfs -text
